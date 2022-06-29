@@ -1,3 +1,4 @@
-console.log("Rodando apenas uma linha pelo Site GitHub");
-console.log("Enviando para GitHub");
-console.log("Testando o restore...")
+console.log("Rodando o sistema de gerenciamento de jogos);
+console.log("Testando atualizações via VSCode Web");
+console.log("Terceira atualização via GitHub Web")
+console.log("Atualizando pelo Git Hub Desktop");
